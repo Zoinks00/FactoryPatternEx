@@ -1,0 +1,15 @@
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\obj\Debug\net5.0\FactoryPatternEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\obj\Debug\net5.0\FactoryPatternEx.AssemblyInfoInputs.cache
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\obj\Debug\net5.0\FactoryPatternEx.AssemblyInfo.cs
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\obj\Debug\net5.0\FactoryPatternEx.csproj.CoreCompileInputs.cache
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\bin\Debug\net5.0\FactoryPatternEx.exe
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\bin\Debug\net5.0\FactoryPatternEx.deps.json
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\bin\Debug\net5.0\FactoryPatternEx.runtimeconfig.json
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\bin\Debug\net5.0\FactoryPatternEx.runtimeconfig.dev.json
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\bin\Debug\net5.0\FactoryPatternEx.dll
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\bin\Debug\net5.0\ref\FactoryPatternEx.dll
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\bin\Debug\net5.0\FactoryPatternEx.pdb
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\obj\Debug\net5.0\FactoryPatternEx.dll
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\obj\Debug\net5.0\ref\FactoryPatternEx.dll
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\obj\Debug\net5.0\FactoryPatternEx.pdb
+C:\Users\forre\repos\FactoryPatternEx\FactoryPatternEx\obj\Debug\net5.0\FactoryPatternEx.genruntimeconfig.cache
